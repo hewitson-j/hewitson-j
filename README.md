@@ -9,7 +9,6 @@ I'm Jacob Hewitson (but you can call me Jake too!) and I'm a frontend engineer. 
 - 🌐 My stack is primarily frontend technologies like React.js, TypeScript, Javascript, and HTML/CSS. I also use SQL (Postgres and MySQL) in my projects. Even though I don't frequently work with them, I also know Python, Java, and C++.
 - 🌱 I’m currently learning backend web technologies such as Node.js so I can create more dynamic websites.
 - 📫 You can contact me via my portfolio website at [JacobHewitson.com](https://jacobhewitson.com) or by emailing me at [jacob.a.hewitson@gmail.com](mailto:jacob.a.hewitson@gmail.com)
-- 😄 Pronouns: he/him
 
 <!--
 **hewitson-j/hewitson-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
