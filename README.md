@@ -1,6 +1,6 @@
 ## Hello world! 👋
 
-I'm Jacob Hewitson (but you can call me Jake too!) and I'm a frontend engineer. I'm a recent graduate from Western Governors University and am excited to begin working as a professional software engineer.
+I'm Jacob Hewitson (but you can call me Jake!) and I'm a frontend engineer. I'm a recent graduate from Western Governors University and am excited to begin working as a professional software engineer.
 
 
 - 💻 I have worked on several freelance projects for different organizations, such as Leaps and Bounds Preschool, the author of the Mine Grinder series, the Church of Jesus Christ of Latter-Day Saints and more!
