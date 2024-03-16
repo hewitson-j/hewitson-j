@@ -4,11 +4,11 @@ I'm Jake Hewitson and I'm a frontend engineer! I'm a recent graduate from Wester
 
 
 - 💻 I have worked as a freelancer for several different organizations, such as Leaps and Bounds Preschool, the author of the Mine Grinder series, the Church of Jesus Christ of Latter-Day Saints and more!
-- 🧑‍💼 I have recently accepted an internship with [FamilySearch](http://www.familysearch.org) and am working on building my skills to become the best frontend developer possible.
+- 🧑‍💼 I have recently accepted an internship with [FamilySearch](http://www.familysearch.org){:target="_blank"} and am working on building my skills to become the best frontend developer possible.
 - 🔭 I’m currently working on a small social media platform. Authenticated users will be able to log in and create and comment on posts as well as upload other media such as photos and videos.
 - 🌐 My stack is primarily frontend technologies like React.js, TypeScript, Javascript, and HTML/CSS. I also use SQL (Postgres and MySQL) in my projects. Even though I don't frequently work with them, I also have experience with Python, Java, and C++.
 - 🌱 I’m currently learning backend web technologies such as Node.js so I can create full-stack projects.
-- 📫 You can contact me via my portfolio website at [JacobHewitson.com](https://jacobhewitson.com) or by emailing me at [jacob.a.hewitson@gmail.com](mailto:jacob.a.hewitson@gmail.com)
+- 📫 You can contact me via my portfolio website at [JacobHewitson.com](https://jacobhewitson.com){:target="_blank"} or by emailing me at [jacob.a.hewitson@gmail.com](mailto:jacob.a.hewitson@gmail.com)
 
 <!--
 **hewitson-j/hewitson-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
