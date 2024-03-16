@@ -4,7 +4,7 @@ I'm Jake Hewitson and I'm a frontend engineer! I'm a recent graduate from Wester
 
 
 - 💻 I have worked as a freelancer for several different organizations, such as Leaps and Bounds Preschool, the author of the Mine Grinder series, the Church of Jesus Christ of Latter-Day Saints and more!
-- 🧑‍💼 Having gained some professional experience, I am looking to break into the software engineering field and get my first professional software engineer job!
+- 🧑‍💼 I have recently accepted an internship with [FamilySearch](http://www.familysearch.org) and am working on building my skills to become the best frontend developer possible.
 - 🔭 I’m currently working on a small social media platform. Authenticated users will be able to log in and create and comment on posts as well as upload other media such as photos and videos.
 - 🌐 My stack is primarily frontend technologies like React.js, TypeScript, Javascript, and HTML/CSS. I also use SQL (Postgres and MySQL) in my projects. Even though I don't frequently work with them, I also have experience with Python, Java, and C++.
 - 🌱 I’m currently learning backend web technologies such as Node.js so I can create full-stack projects.
