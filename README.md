@@ -1,4 +1,4 @@
-## console.log("Hello world!") 👋
+## console.log("Nice to meet you! 👋")
 
 I'm Jake Hewitson and I'm a frontend engineer! I'm a recent graduate from Western Governors University and am excited to begin working as a professional software engineer.
 
