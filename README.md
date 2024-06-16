@@ -3,7 +3,7 @@
 I'm Jake Hewitson and I'm a frontend engineer! I'm a graduate from Western Governors University and am excited to begin working as a professional software engineer.
 
 
-- 💻 I have worked as a freelancer for several different organizations, such as Leaps and Bounds Preschool, the author of the Mine Grinder series, the Church of Jesus Christ of Latter-Day Saints and more!
+- 💻 I am working part time as a freelancer for several different organizations, such as Leaps and Bounds Preschool, the author of the Mine Grinder series, the Church of Jesus Christ of Latter-Day Saints and more!
 - 🧑‍💼 I have recently accepted an internship with <a href='http://www.familysearch.org' target="_blank">FamilySearch</a> and am working on building my skills to become the best frontend developer possible.
 - 🔭 I’m currently working on a small social media platform. Authenticated users will be able to log in and create and comment on posts as well as upload other media such as photos and videos.
 - 🌐 My stack is primarily frontend technologies like React.js, TypeScript, Javascript, and HTML/CSS. I also use SQL (Postgres and MySQL) in my projects. Even though I don't frequently work with them, I also have experience with Python, Java, and C++.
