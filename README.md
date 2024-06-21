@@ -1,6 +1,6 @@
 ## console.log("Nice to meet you! 👋")
 
-I'm Jake Hewitson and I'm a frontend engineer! I'm a graduate from Western Governors University and am excited to begin working as a professional software engineer.
+I'm Jake Hewitson and I'm a frontend engineer! I'm a graduate from Western Governors University (currently attending Utah Valley University) and am excited to begin working as a professional software engineer.
 
 
 - 🧑‍💼 I have recently accepted an internship with <a href='http://www.familysearch.org' target="_blank">FamilySearch</a> and am working on building my skills to become the best frontend developer possible.
